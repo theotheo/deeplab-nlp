@@ -1,4 +1,4 @@
-# DeelLab NPL Course. Spring 17.
+# DeepLab NPL Course. Spring 17.
 
 ## 1
 - [x] [lecture1]()
